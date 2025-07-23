@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am currently learning "Kubernetes".<br>🛠️ I am working on CI-CD Pipeline Projects.<br>✔️ I am an avid learner.
+🌱 I am currently learning "AI-ML".<br>🛠️ I am working on Deep Learning Projects.<br>✔️ I am an avid learner.
 
 
 ## 🌐 Socials:
